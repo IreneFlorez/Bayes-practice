@@ -1,6 +1,6 @@
 # Bayes-practice
 
-Practice using Bayes Theorem using the Candy Conundrum set of questions. 
+Bayes Theorem practice using the Candy Conundrum set of questions. 
 
 See the Jupyter Notebook for formulas used and answers. 
 
